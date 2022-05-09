@@ -1,0 +1,267 @@
+description,id,pregunta
+"
+                I am looking for some practices to follow for making my startup's app performant.
+Please share the tips/tricks and practices that you follow for making Flutter apps smoother. I have shared some ...
+            ",[0],Flutter performance optimisation tips?
+"
+                I'm new to Xamarin. I've built a simple app in VS 2019 on Windows, which is paired to a Mac on our company network. I'm trying to deploy the app to an iPhone. I'm using these instructions. I've ...
+            ",[1],Visual Studio/Xamarin on Windows doesn't see my Signing Identity and Provisioning Profile on the Mac
+"
+                All code is here ->
+https://stackblitz.com/edit/material-password-confirm-fzaajz?file=src%2Fapp%2Fapp.component.html,src%2Fapp%2Fapp.component.ts
+What is the problem? Well the validation works ...
+            ",[2],How to fix confirm password using reactive forms?
+"
+                I am using the s3 bucket to serve the frontend app. And I am syncing code in that s3 bucket from the Jenkins server. While building the code in every deployment. Some files get updated some files get ...
+            ",[3],Is there way to cleanup old unused filed on S3
+"
+                I am building a social media app using MongoDB, GraphQL, and Flutter. The user will be able to like and unlike a post. On the frontend, I am able to get the user to like and unlike the post, but the ...
+            ",[4],Update UI based on wether user has liked post or not
+"
+                I have a df - Wards - that contains the number of different events that happen  on each ward of a hospital. I just want a simple bar chart of the totals of these events. I have used plotly before - I ...
+            ",[5],Blank Bar Charts in Plotly
+"
+                I am trying to set a new parent window (host window) for the another window (client window) that belongs to other process. Also, the is a requirement to duplicate main menu of the client window so ...
+            ",[6],Copy main menu from one window to other
+"
+                I have a build phase that calls some python scripts.
+This has been working fine for well over 2 years, but after recently updating to Xcode 13.3 it now fails.
+
+the error I started receiving is:
+/Users/...
+            ",[7],Build phase in Xcode 13.3 started failing
+"
+                I have a string input of weekdays in German and need to get the next Localdate after today which corresponds to the given weekday string. If for example the input is Montag (Monday) I need the output ...
+            ",[8],String input of weekdays in German to Localdate
+"
+                How can I find multiples of a given bit sequence?
+So the code should work like this:
+int bit = 0b100
+
+for (int i = 0; i<=50;i++){
+     if (bit in i){
+         print(i);
+     }
+}
+
+This should print ...
+            ",[9],Find repeating bit sequence in number
+"
+                Where is it advisable to store temporary files with Java?
+I need to unzip files from the archive, do some checks and clean up if all tests would pass. I wrote the following method:
+@BeforeAll
+static ...
+            ",[10],where to store temporary files with Java
+"
+                I want to remove the "":"" sign in the span end. But this always caused the error. It does not accept any other sign. How can this happen?
+Why is this simple process so difficult? Can anyone ...
+            ",[11],"I couldn't remove the "":"" in html in PHP"
+"
+                I use the following code to create a raster file with gdal:
+filepath=""somefile.tif""
+ds = gdal.GetDriverByName(""GTiff"").Create(filepath, xsize=ny, ysize=nx, bands=1, eType=gdal....
+            ",[12],Problem in creating raster file using gdal
+"
+                Since Nova 4 has no blades anymore that you could publish, how could you approach customization the best in for example the head navbar next to the searchbar? I'd like to add a drop-down there but I ...
+            ",[13],Laravel Nova 4 customize layout
+"
+                I cloned a remote repo with git clone, and then created my branch and implemented a new feature. I, then, pushed the new branch to the origin. And finally, created a merge request.
+The code review ...
+            ",[14],How to rebase my branch to the remote branch?
+"
+                I have the following dictionary:
+d = {}
+d[1] = 'a'
+d[2] = 'b'
+d[3] = 'c'
+d[4] = 'd'
+
+I'd like to perform a reverse dictionary lookup for each character in a string:
+input_string = ""bad""
+
+I ...
+            ",[15],Python reverse dictionary lookup in list comprehension
+"
+                splash code
+ home: AnimatedSplashScreen(
+            duration: 3000,
+            //splash: Image.asset('assets/icon/icon.png'),
+           splash:Lottie.asset('assets/Only Logo_1.mp4.lottie.json'),
+   ...
+            ",[16],How to name my main screen or homepage so that I can show splash video before going to home page or main.dart screen
+"
+                Using arrays in C++, write a program that accepts any user defined number of inputs and sorts the numbers in ascending order using insertion sort.
+Sample Output
+Input list = 7, 9, 4, 1, 8
+
+Sorted List ...
+            ",[17],Insertion sort in c++ [closed]
+"
+                I am looking for idea and help creating below report in HTML and that can be put in body of email. Or past as image of chart in email body. Does anybody have done so and willing to share their code ?
+            ",[18],Creating HTML graph chart which can be emailed within body of email
+"
+                I am trying to read a word document and extract all table information in the form of json or dataframe with key and value.
+Sample image of tables in word document is as below.
+
+Expected Output:
+
+Below ...
+            ",[19],Extract Table information from .docx in the form of dictionary and dataframe using python
+"
+                Error Deleting api gateway Rest api : BadRequestException : Deleting stage stage_name failed. Please remove all base math mappings on the map related to.. etc
+I’m getting this error when i am trying ...
+            ",[20],Error deleting API Gateway Rest API :BadRequestException
+"
+                Can a nested N-quad-star have quoted quads in it which have a different graph_labels?
+For example -
+Lets say we have a nested N-quad-star as -> 
+<< << :subject_1 :predicate_1 :object_1 :...
+            ",[21],Can a nested N-quad-star have multiple graph labels?
+"
+                I can't print the value of ""dataSubEvento"" in the input.
+**const [dataSubEvento, setDataSubEvento] = useState(
+    props.activeSubEventData.data
+  );
+    <input
+              className=&...
+            ",[22],React.js - How to set a default value for date input type on react.js
+"
+                why need to use areItemsTheSame with areContentsTheSame at diffutil recyclerview?
+i don't understand i think areItemsTheSame is enough to compare data?
+is possible more explain to me?
+thank you
+            ",[23],why use areItemsTheSame with areContentsTheSame at diffutil recyclerview?
+"
+                I am writing a code to do a room booking system. I creating a function to modify the booking. My outline for this feature is as follows:
+student clicks on modify button -> a pop up with cascading ...
+            ",[24],Grabbing values from Modal popup with cascading dropdown and changing table values with modal popup values
+"
+                Let's say that these are my data
+day region cars motorcycles bikes buses
+1    A      0      1           1    2
+2    A      4      0           6    8
+3    A      2      9           8    0
+1    B      6 ...
+            ",[25],How to swap many columns into rows with rows by being grouped in pandas? [duplicate]
+"
+                I need to decrement var ""left"" by 1 and only once instead of having it go through a loop and decrement if conditions pass true. But conditions are valid only if they are in a loop. How would ...
+            ",[26],How to increment/decrement variable value only once while in a loop?
+"
+                I am very new to javascript and am not sure where to start.
+For context: using google sheets I was able to calculate quarantine return dates using formulas. This information is private so I have to ...
+            ",[27],Date Calculation for COVID
+"
+                I have a large mermaid graph. I wanted to print some of the sections vertically rather than horizontally.
+I was able to shift some of the groups of the graph downward by adding dashes to the arrows in ...
+            ",[28],horizontally align specific nodes in mermaid graph
+"
+                I'm trying to provide SSO to a next.js app with Okta but it's not working and I don't know why. Worked perfect;y with Google.
+I get the error: [next-auth][error][GET_AUTHORIZATION_URL_ERROR]  https://...
+            ",[29],oauth with next-auth ans Okta not working
+"
+                I have the following java code:
+System.out.print(""\fPlease Enter an integer: "");
+while(!validInt){
+   try{
+      number = kb.nextInt();
+      validInt = true;
+   }catch(...
+            ",[30],How to properly use Exception method getMessage
+"
+                I have a demo here
+It's a simple css layout using flex to create a grid of 6 block, 3 across.
+I'm using flex: 0 0 33%; to make the blocks a3rd of the width but there is slight space on the right side ...
+            ",[31],CSS flex make block exactly a 3rd
+"
+                I am new to coding in C, and I was wondering if it is possible to print a float, ex: float l = 2.718281;
+such that the program prints:
+2
+2.7
+2.71
+2.718
+2.7182
+2.71828
+2.718281
+I know how to do this ...
+            ",[32],is there a way to use a variable to print a number to different decimal places in C? [duplicate]
+"
+                ` <table
+            className=""table table-striped table-bordered table-dark table-hover "">
+            <tbody>
+              <tr>
+              <td>name</td>
+ ...
+            ",[33],how can i centered bootstrap table data in Bootstrap5?
+"
+                I have an Apache Ignite cluster with 3 server nodes. The cache is configured with 1 backup and the default PRIMARY_SYNC write synchronization mode. It also has write behind enabled, for writing the ...
+            ",[34],What happens to data that is pending write behind on ignite node failure with backups configured?
+"
+                I have a table that contains a list of xml tags/values that I need to use to join to another table to retrieve their actual value and display the result as a csv list.
+Example varchar data:
+<choice ...
+            ",[35],MSSQL Convert List Of XML Tags in varchar column to comma separated list
+"
+                I have a bunch of APIs, web services, databases, file shares, and I'd like to have the ability to see in one place their health status, but I'd like to avoid writing custom code.
+The idea would be to ...
+            ",[36],Web Page dashboard to see general health checks (IIS)
+"
+                I'm so so so basic programmer in pyside2 and Actually i'v tried to create another class, which inheritance form QLabel. And i would like to use that class such as a label in my QMainWindow. But when i ...
+            ",[37],Pyside 2 try set Qlabel in QMainwindow
+"
+                I have a dropdown for countries:
+<select id=""country"" name=""country"" aria-disabled=""false"">
+        <option value=""AU"" age=""18"" selected=&...
+            ",[38],Age verification doesn't get full year in JS
+"
+                I'm trying to test if a fragment A calls fragment B through Navigation Component's navigate(NavDirection) method, and using Mockito. The problem is that the action from fragment A to fragment B has ...
+            ",[39],Test Navigation Component with SafeArgs and Mockito
+"
+                I have a long date namely, 1643645988.442 which corresponds to 2022 01 31. When I pass this into httpClient.get(), the long date gets changed to 063779242788.442.
+Why is this happening? How can I ...
+            ",[40],Angular: Long Date changingg in httpClient get request
+"
+                MySql.Data.MySqlClient.MySqlException: 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'not=41, durum='BASARISIZ' ...
+            ",[41],MySQL -> You have an error in your SQL syntax error how can i fix this
+"
+                Im building a chat app using next.js and firebase.The problem is that im trying to build a search bar that filters by the email of the user.The filter only works for emails that are in the 0 index of ...
+            ",[42],Problem with filtering the search bar on next.js with firebase
+"
+                I am trying to migrate a Laravel 8 project from Homestead to Sail. Sail seems to be set up correctly since I can get to my project's website locally. But I can't get into mysql to look around in the ...
+            ",[43],Cannot access mysql database after migrating from Homestead to Sail
+"
+                Currently my excel sheet has columns of strings in the Date column (example of 1871.01, 1871.02 etc). I would like to convert these to MM/YYYY date format so that I may chart the data in a time series ...
+            ",[44],How can I convert a string (YYYY.MM) to a date format (MM/YYYY) that excel will understand for graphing purposes?
+"
+                I'm getting the following error when trying to run a Pytorch program
+OSError: [Errno 30] Read-only file system: '/nfs'
+
+I have tried what is suggested from this post:
+# What I typed in terminal:
+chmod ...
+            ",[45],change MAC nfs permission --- OSError: [Errno 30] Read-only file system: '/nfs' Mac using Pytorch:
+"
+                Implement the following pseudocode in assembly language. Assume that var1 and var2 are 32-bit variables.
+if( var1 == var2 )
+
+X = 10;
+
+else
+
+X = 20;
+
+I am a beginner in assembly and doing a self paced ...
+            ",[46],Pseudocode to Assembly [closed]
+"
+                I am developing and rest api and i want to filter a data by birthday. I create birthday variable as birthday in every where and when i compile my code  i get an error that "" No property '...
+            ",[47],No property 'birthDate' found for type 'person'! Did you mean ''birthdate''? in srping boot
+"
+                I have tried this query in phpmyAdmin
+SELECT COUNT(*) FROM meal_participants_user INNER JOIN user ON meal_participants_user.userId = user.id ORDER BY meal_participants_user.mealId ASC;
+
+And got in ...
+            ",[48],"What causes this problem, whereby the query used in phpmyAdmin and in a nodejs app, gets different results?"
+"
+                I'm currently learning about IEEE754 standard and rounding, and I have an exercise which is the following:
+Add -325.875 to 0.546875 in IEEE754, but with 3 bits dedicated to the mantissa instead of 23.
+...
+            ",[49],Representing numbers with IEEE754 with Round to Nearest Even
